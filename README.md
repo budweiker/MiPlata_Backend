@@ -1,5 +1,5 @@
 # MiPlata_Backend
-![Diagrama UML](miPlata.png)
+![Diagrama UML](docs/miPlata.png)
 
 Momento I materia Backend I 
 
